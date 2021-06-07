@@ -1,0 +1,48 @@
+body {
+    background: url("../images/HAT.png") no-repeat;
+    background-size: cover;
+    font-family: Verdana, Arial, "Times New Rcman";
+    front-size: 11pt;
+    margin :0;
+    padding: 0;
+}
+.clear{
+    clear: both;
+}
+#footer{
+    background-color: #701919;
+    margin-top: 25px;
+    padding: 15 px 0;
+    width: 100%;
+}
+#footer{
+    margin: 0;
+}
+#color{
+    color: azure;
+}
+#container{
+    margin: 0 auto;
+    width: 717px;
+}
+#topmenu{
+    margin: 20px 0 10px;
+}
+#topmenu a {
+    color:#08f100;   
+    font-weight: bold;
+    margin: 0 56px;
+    padding: 10px 5px;
+    text-decoration: none;
+}
+#topmenu a:hover{
+    background-color: #17748b;
+}
+#gul1{
+    font-size: 16px;
+    background-color: rgb(5, 253, 79);
+    color: white;
+    border: 0px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
